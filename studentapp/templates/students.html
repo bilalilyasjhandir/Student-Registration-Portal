@@ -1,0 +1,7 @@
+<h2>Registered Students</h2>
+<ul>
+    {% for student in students %}
+        <li>{{ student.name }} - Age: {{ student.age }} - Class: {{ student.student_class }}</li>
+    {% endfor %}
+</ul>
+<a href="{% url 'register_student' %}">Register another student</a>
