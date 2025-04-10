@@ -101,4 +101,5 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 
 - The main app is `studentapp`.
 - Project folder is `studentproject`.
+- Made by `Bilal Ilyas Jhandir` for `Web Design & Development Frameworks` Assignment
 - Admin dashboard available at `/admin`.
